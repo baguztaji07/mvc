@@ -1,0 +1,19 @@
+.center{
+  padding: 50px;
+  margin: 5px;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+
+body{
+  background-color: black;
+  font-family: 'Rammetto One', cursive;
+  font-size: 18px;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+a{
+  color: gray;
+}
